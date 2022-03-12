@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 79 73">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 73h78.054V0H0v73zm70.192-7.718H7.862V7.656h62.33v57.626z" fill="url(#nsi3rz4Z-nGa)"/>
+  <defs>
+    <linearGradient id="nsi3rz4Z-nGa" x1="-81.359" y1="141.399" x2="150.873" y2="358.094" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".01"/>
+      <stop offset=".07" stop-color="#fff" stop-opacity=".22"/>
+      <stop offset=".16" stop-color="#fff" stop-opacity=".45"/>
+      <stop offset=".25" stop-color="#fff" stop-opacity=".65"/>
+      <stop offset=".33" stop-color="#fff" stop-opacity=".8"/>
+      <stop offset=".4" stop-color="#fff" stop-opacity=".91"/>
+      <stop offset=".46" stop-color="#fff" stop-opacity=".98"/>
+      <stop offset=".51" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+</svg>
